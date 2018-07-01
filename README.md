@@ -61,7 +61,7 @@ which gives:
 Preprocessors{CSS{SASS{}LESS{}Stylus{}}
 ```
 ## Specifications
-Both tab and space characters can be used to represent indentation, however, usage of spaces is advised, since some text editors automatically convert tabs to spaces characters. In the following example, 2 spaces represent 1 level indentation, however, you can use as many space characters as you want, as long as the rest of the lines are consistent with your initial choice. This plugin automatically detects *'number of spaces used as 1 level indentation'* of your choice.
+Both tab and space characters can be used to represent indentation, however, usage of spaces is advised, since some text editors automatically convert tabs to spaces. In the following example, 2 spaces represent 1 level indentation, however, you can use as many space characters as you want, as long as the rest of the lines are consistent with your initial choice. This plugin automatically detects *'number of spaces used as 1 level indentation'* of your choice.
 
 ## License
 
